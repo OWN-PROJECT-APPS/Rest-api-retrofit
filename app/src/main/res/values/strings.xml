@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Network</string>
+    <string name="download">Download</string>
+    <string name="upload" >Upload</string>
+    <string name="getAllUsers">Get All Users</string>
+    <string name="getOneUser">Get One User</string>
+    <string name="reset_api_request">Rest API Request</string>
+    <string name="userPicture">user image</string>
+    <string name="useremail">abc@live.com</string>
+    <string name="full_name">Full Name :</string>
+    <string name="email">Email :</string>
+</resources>
